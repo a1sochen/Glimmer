@@ -17,6 +17,6 @@ A：上传限制文件大小，如果想要更清晰的版本可以联系作者
 
 联系方式(有其他问题也可以联系)：
 
-![wechat](wechat.JPG)
+<img src="wechat.JPG" width="300" alt="wechat" />
 
 tips:部分资料可能不具有时效性，大家注意自己甄别
